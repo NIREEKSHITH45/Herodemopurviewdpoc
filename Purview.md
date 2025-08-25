@@ -8,9 +8,9 @@
   
    ![](./media/purview-2.png)
 
-3. In Azure Purview Studio, go to **Data Map**, choose **Data Sources**, and then click **Register** to add a new data source.
+3. In Azure Purview Portal, go to **Data Map**, choose **Data Sources**, and then click **Register** to add a new data source.
 
-   ![](./media/image1.png)
+   ![](./media/gd20.png)
 
 4. Select **Azure SQL Database** and then click **Continue**.
 

@@ -31,3 +31,44 @@
 8. You can follow the same steps to add any other data sources you need.
 
    ![](./media/image7.png)
+
+
+    ![](./media/gd1.png)
+
+    ![](./media/gd2.png)
+
+    ![](./media/gd3.png)
+
+    ![](./media/gd4.png)
+
+    ![](./media/gd5.png)
+
+    ![](./media/gd6.png)
+
+    ![](./media/gd7.png)
+
+    ![](./media/gd8.png)
+
+    ![](./media/gd9.png)
+
+    ![](./media/gd10.png)
+
+    ![](./media/gd11.png)
+
+    ![](./media/gd12.png)
+
+    ![](./media/gd13.png)
+
+    ![](./media/gd14.png)
+
+    ![](./media/gd15.png)
+
+    ![](./media/gd16.png)
+
+    ![](./media/gd17.png)
+
+    ![](./media/gd18.png)
+
+    ![](./media/gd19.png)
+
+    

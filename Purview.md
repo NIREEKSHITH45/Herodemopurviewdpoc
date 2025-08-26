@@ -76,14 +76,15 @@
 
     ![](./media/gd10.png)
 
-6. In access control section and select the configure 
+6. In the Access control section, select Configure access control, assign permissions to the sensitivity label by choosing the required users, and then click **Next**.
 
     ![](./media/gd11.png)
-7. m
+
+7. Review the settings, then click **Create label** to finalize.
 
     ![](./media/gd12.png)
 
-8. m
+8. After creating the sensitivity label, create a policy label on top of it.
 
     ![](./media/gd13.png)
 

@@ -32,24 +32,47 @@
 
    ![](./media/image7.png)
 
+## Adding the Governance domains
+
+1. From the left navigation menu, go to **Solutions** and then select **Unity Catalog**.
 
     ![](./media/gd1.png)
 
+2. Expand **Catalog Management**, select **Governance Domains**, and then click **+ New Governance Domain**.
+
     ![](./media/gd2.png)
+
+3. Enter the required **Name** and **Description**, select the Type, and then click **Next**.
 
     ![](./media/gd3.png)
 
+4.  On the Custom Attributes page, accept the default settings and click **Create** to finish creating the governance domain.
+
     ![](./media/gd4.png)
+
+5. To assign permissions for a governance domain, select the domain, open Roles, click Add, and select **Governance Domain Owner**.
 
     ![](./media/gd5.png)
 
+## Creating the Sensitivity label
+
+1. From the left navigation menu, go to **Solutions** and then select **Information Protection**.
+
     ![](./media/gd6.png)
+
+2. From the left navigation, select **Sensitivity Labels** and click **+ Create a label**.
 
     ![](./media/gd7.png)
 
+3. On the Label Details page, enter the required information such as **Name**, **Display Name**, and **Description**, then click **Next**.
+
     ![](./media/gd8.png)
 
+4. In the **Scope** section, select the required scope where the sensitivity label should be enabled
+
     ![](./media/gd9.png)
+
+5. In the **Items** section, select Control access and click **Next**.
 
     ![](./media/gd10.png)
 

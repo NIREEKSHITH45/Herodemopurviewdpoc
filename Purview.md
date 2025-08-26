@@ -76,7 +76,11 @@
 
     ![](./media/gd10.png)
 
+5. In access control section and select the configure 
+
     ![](./media/gd11.png)
+
+6. 
 
     ![](./media/gd12.png)
 

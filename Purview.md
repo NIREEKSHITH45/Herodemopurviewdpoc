@@ -76,25 +76,38 @@
 
     ![](./media/gd10.png)
 
-5. In access control section and select the configure 
+6. In access control section and select the configure 
 
     ![](./media/gd11.png)
-
-6. 
+7. m
 
     ![](./media/gd12.png)
 
+8. m
+
     ![](./media/gd13.png)
+
+9. m 
 
     ![](./media/gd14.png)
 
+10. m
+
     ![](./media/gd15.png)
+
+11. m
 
     ![](./media/gd16.png)
 
+12. m
+
     ![](./media/gd17.png)
 
+13. m
+
     ![](./media/gd18.png)
+
+14. m 
 
     ![](./media/gd19.png)
 

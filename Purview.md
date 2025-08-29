@@ -88,27 +88,27 @@
 
     ![](./media/gd13.png)
 
-9. m 
+9. On the Create Policy page, select the sensitivity label you created earlier, then click **Next**.
 
     ![](./media/gd14.png)
 
-10. m
+10. Navigate to the Users and Groups page. Click on **Edit**, then select the user who should be granted access to the sensitivity label. Once the appropriate user is selected, click **Next** to proceed.
 
     ![](./media/gd15.png)
 
-11. m
+11. On the Policy Settings page, enable the checkbox labeled **Require users to apply a label to their Fabric and Power BI content.** This setting grants the previously selected user access to manage sensitivity labels for content within Microsoft Fabric and Power BI and click on Next.
 
     ![](./media/gd16.png)
 
-12. m
+12. Go to the Apply a default label to Fabric and Power BI content setting, and choose the sensitivity label you created earlier. 
 
     ![](./media/gd17.png)
 
-13. m
+13. Enter a name for the policy, then click **Next** to continue.
 
     ![](./media/gd18.png)
 
-14. m 
+14. On the Review and Finish page, review your selections and then click **Submit**.
 
     ![](./media/gd19.png)
 
